@@ -1,0 +1,11 @@
+{
+  "name" : "daar/dotenv",
+  "version" : "1.0.1",
+  "license" : "MIT",
+  "author" : "Darius Blaszyk <dhkblaszyk@gmail.com>",
+  "description" : "A lightweight .env file loader for Free Pascal",
+  "require" : {},
+  "require-dev" : {},
+  "bin" : [
+  ]
+}
